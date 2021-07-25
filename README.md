@@ -1,0 +1,2 @@
+# aku
+discord.js Bot 
