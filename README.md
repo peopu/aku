@@ -39,9 +39,8 @@ node: `node index.js`
 pm2: `pm2 start index.js`
 
 ## Additional Informations
-The source code of this bot is old one code of my previous "pocket-kitsune" project inspired by An Idiot's Guide.         
-Bot is currently only in Polish language.
-
+The source code of this bot is the same as my previous bot named "pocket-kitsune", which was inspired by An Idiot's Guide.
+Unfortunately, the bot is only available in Polish, but additional languages (English and Japanese) will be added in the future!
 
 ## Upcoming updates
 
